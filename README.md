@@ -1,6 +1,6 @@
 # Xiao Restore
 
-This is a UNIX/MacOS (POSIX) adaption of the restore technique from: [Seeeduino Forum](https://forum.seeedstudio.com/t/how-to-unbrick-a-dead-xiao-using-a-xiao-daplink-and-openocd/261800). 
+This is a MacOS adaption of the restore technique from: [Seeeduino Forum](https://forum.seeedstudio.com/t/how-to-unbrick-a-dead-xiao-using-a-xiao-daplink-and-openocd/261800). 
 
 Clone the repo and flash Xiao-1 with the `simple_daplink_xiao.uf2` firmware. Then, attach the bricked Xiao (Xiao-2) debug pins to Xiao-1 like this: 
 
